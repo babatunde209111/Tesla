@@ -1,0 +1,5 @@
+I am rich
+DevOps is esy for me
+Tue Feb 13 06:18:59 AM UTC 2024
+ec2-user
+/home/ec2-user
