@@ -15,9 +15,13 @@
 
 # Command Line History (newest to oldest):
 :wq
+<<<<<<< HEAD
 |2,0,1708688931,,"wq"
 :Wq
 |2,0,1708688924,,"Wq"
+=======
+|2,0,1708688790,,"wq"
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 :q!
 |2,0,1708181965,,"q!"
 :q1
@@ -88,6 +92,7 @@
 |3,0,36,0,1,0,1707809234,"e"
 
 # File marks:
+<<<<<<< HEAD
 '0  8  17  ~/tesla/deploy.sh
 |4,48,8,17,1708688931,"~/tesla/deploy.sh"
 '1  6  32  ~/tesla/deploy.sh
@@ -114,16 +119,43 @@
 |4,39,8,17,1708688931,"~/tesla/deploy.sh"
 -'  6  32  ~/tesla/deploy.sh
 |4,39,6,32,1708688875,"~/tesla/deploy.sh"
+=======
+'0  6  32  ~/tesla/deploy.sh
+|4,48,6,32,1708688790,"~/tesla/deploy.sh"
+'1  1  32  ~/tesla/info.dev
+|4,49,1,32,1708688601,"~/tesla/info.dev"
+'2  3  6  ~/tesla/deploy.sh
+|4,50,3,6,1708608237,"~/tesla/deploy.sh"
+'3  3  6  ~/tesla/deploy.sh
+|4,51,3,6,1708608237,"~/tesla/deploy.sh"
+'4  3  3  ~/tesla/list.java
+|4,52,3,3,1708514189,"~/tesla/list.java"
+'5  1  2  ~/tesla/test.sh
+|4,53,1,2,1708513307,"~/tesla/test.sh"
+'6  1  0  ~/tesla/deploy.sh
+|4,54,1,0,1708513289,"~/tesla/deploy.sh"
+'7  1  0  ~/tesla/deploy.sh
+|4,55,1,0,1708513289,"~/tesla/deploy.sh"
+'8  1  0  ~/tesla/deploy.sh
+|4,56,1,0,1708513289,"~/tesla/deploy.sh"
+'9  1  0  ~/tesla/deploy.sh
+|4,57,1,0,1708513289,"~/tesla/deploy.sh"
+
+# Jumplist (newest first):
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 -'  6  32  ~/tesla/deploy.sh
 |4,39,6,32,1708688790,"~/tesla/deploy.sh"
 -'  3  6  ~/tesla/deploy.sh
 |4,39,3,6,1708688769,"~/tesla/deploy.sh"
+<<<<<<< HEAD
 -'  3  6  ~/tesla/deploy.sh
 |4,39,3,6,1708688769,"~/tesla/deploy.sh"
 -'  1  32  ~/tesla/info.dev
 |4,39,1,32,1708688601,"~/tesla/info.dev"
 -'  1  32  ~/tesla/info.dev
 |4,39,1,32,1708688601,"~/tesla/info.dev"
+=======
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 -'  1  32  ~/tesla/info.dev
 |4,39,1,32,1708688601,"~/tesla/info.dev"
 -'  1  32  ~/tesla/info.dev
@@ -138,8 +170,11 @@
 |4,39,1,0,1708608203,"~/tesla/deploy.sh"
 -'  1  0  ~/tesla/deploy.sh
 |4,39,1,0,1708608203,"~/tesla/deploy.sh"
+<<<<<<< HEAD
 -'  1  0  ~/tesla/deploy.sh
 |4,39,1,0,1708608203,"~/tesla/deploy.sh"
+=======
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 -'  3  3  ~/tesla/list.java
 |4,39,3,3,1708514189,"~/tesla/list.java"
 -'  3  3  ~/tesla/list.java
@@ -156,6 +191,7 @@
 |4,39,3,3,1708514189,"~/tesla/list.java"
 -'  3  3  ~/tesla/list.java
 |4,39,3,3,1708514189,"~/tesla/list.java"
+<<<<<<< HEAD
 -'  3  3  ~/tesla/list.java
 |4,39,3,3,1708514189,"~/tesla/list.java"
 -'  3  3  ~/tesla/list.java
@@ -188,6 +224,8 @@
 |4,39,1,0,1708514171,"~/tesla/list.java"
 -'  1  0  ~/tesla/list.java
 |4,39,1,0,1708514171,"~/tesla/list.java"
+=======
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 -'  1  0  ~/tesla/list.java
 |4,39,1,0,1708514171,"~/tesla/list.java"
 -'  1  0  ~/tesla/list.java
@@ -236,6 +274,7 @@
 |4,39,1,2,1708513307,"~/tesla/test.sh"
 -'  1  2  ~/tesla/test.sh
 |4,39,1,2,1708513307,"~/tesla/test.sh"
+<<<<<<< HEAD
 -'  1  2  ~/tesla/test.sh
 |4,39,1,2,1708513307,"~/tesla/test.sh"
 -'  1  2  ~/tesla/test.sh
@@ -268,6 +307,8 @@
 |4,39,1,2,1708513307,"~/tesla/test.sh"
 -'  1  2  ~/tesla/test.sh
 |4,39,1,2,1708513307,"~/tesla/test.sh"
+=======
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 -'  1  0  ~/tesla/deploy.sh
 |4,39,1,0,1708513289,"~/tesla/deploy.sh"
 -'  1  0  ~/tesla/deploy.sh
@@ -310,10 +351,90 @@
 |4,39,1,0,1708513272,"~/tesla/app.py"
 -'  1  0  ~/tesla/app.py
 |4,39,1,0,1708513272,"~/tesla/app.py"
+<<<<<<< HEAD
+=======
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 
 # History of marks within files (newest to oldest):
 
 > ~/tesla/deploy.sh
+<<<<<<< HEAD
 	*	1708688929	0
 	"	8	17
 	^	8	18
@@ -323,6 +444,16 @@
 	+	6	0
 	+	6	37
 	+	8	19
+=======
+	*	1708688788	0
+	"	6	32
+	^	6	33
+	.	6	32
+	+	5	10
+	+	3	7
+	+	6	0
+	+	6	32
+>>>>>>> 0ed6c15 (deployment to the staging environment)
 
 > ~/tesla/info.dev
 	*	1708688598	0
