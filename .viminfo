@@ -15,7 +15,7 @@
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1708688601,,"wq"
+|2,0,1708688790,,"wq"
 :q!
 |2,0,1708181965,,"q!"
 :Wq
@@ -88,28 +88,34 @@
 |3,0,36,0,1,0,1707809234,"e"
 
 # File marks:
-'0  1  32  ~/tesla/info.dev
-|4,48,1,32,1708688601,"~/tesla/info.dev"
-'1  3  6  ~/tesla/deploy.sh
-|4,49,3,6,1708608237,"~/tesla/deploy.sh"
-'2  3  3  ~/tesla/list.java
-|4,50,3,3,1708514189,"~/tesla/list.java"
-'3  1  2  ~/tesla/test.sh
-|4,51,1,2,1708513307,"~/tesla/test.sh"
-'4  1  0  ~/tesla/deploy.sh
-|4,52,1,0,1708513289,"~/tesla/deploy.sh"
-'5  1  0  ~/tesla/deploy.sh
-|4,53,1,0,1708513289,"~/tesla/deploy.sh"
-'6  1  0  ~/tesla/app.py
-|4,54,1,0,1708513272,"~/tesla/app.py"
-'7  1  0  ~/simon/tesla/test.sh
-|4,55,1,0,1708293257,"~/simon/tesla/test.sh"
-'8  1  4  ~/simon/tesla/app.py
-|4,56,1,4,1708293243,"~/simon/tesla/app.py"
-'9  1  6  ~/simon/tesla/deloy.sh
-|4,57,1,6,1708293226,"~/simon/tesla/deloy.sh"
+'0  6  32  ~/tesla/deploy.sh
+|4,48,6,32,1708688790,"~/tesla/deploy.sh"
+'1  1  32  ~/tesla/info.dev
+|4,49,1,32,1708688601,"~/tesla/info.dev"
+'2  3  6  ~/tesla/deploy.sh
+|4,50,3,6,1708608237,"~/tesla/deploy.sh"
+'3  3  6  ~/tesla/deploy.sh
+|4,51,3,6,1708608237,"~/tesla/deploy.sh"
+'4  3  3  ~/tesla/list.java
+|4,52,3,3,1708514189,"~/tesla/list.java"
+'5  1  2  ~/tesla/test.sh
+|4,53,1,2,1708513307,"~/tesla/test.sh"
+'6  1  0  ~/tesla/deploy.sh
+|4,54,1,0,1708513289,"~/tesla/deploy.sh"
+'7  1  0  ~/tesla/deploy.sh
+|4,55,1,0,1708513289,"~/tesla/deploy.sh"
+'8  1  0  ~/tesla/deploy.sh
+|4,56,1,0,1708513289,"~/tesla/deploy.sh"
+'9  1  0  ~/tesla/deploy.sh
+|4,57,1,0,1708513289,"~/tesla/deploy.sh"
 
 # Jumplist (newest first):
+-'  6  32  ~/tesla/deploy.sh
+|4,39,6,32,1708688790,"~/tesla/deploy.sh"
+-'  3  6  ~/tesla/deploy.sh
+|4,39,3,6,1708688769,"~/tesla/deploy.sh"
+-'  1  32  ~/tesla/info.dev
+|4,39,1,32,1708688601,"~/tesla/info.dev"
 -'  1  32  ~/tesla/info.dev
 |4,39,1,32,1708688601,"~/tesla/info.dev"
 -'  3  6  ~/tesla/deploy.sh
@@ -120,6 +126,8 @@
 |4,39,1,0,1708608203,"~/tesla/deploy.sh"
 -'  1  0  ~/tesla/deploy.sh
 |4,39,1,0,1708608203,"~/tesla/deploy.sh"
+-'  1  0  ~/tesla/deploy.sh
+|4,39,1,0,1708608203,"~/tesla/deploy.sh"
 -'  3  3  ~/tesla/list.java
 |4,39,3,3,1708514189,"~/tesla/list.java"
 -'  3  3  ~/tesla/list.java
@@ -128,6 +136,22 @@
 |4,39,3,3,1708514189,"~/tesla/list.java"
 -'  3  3  ~/tesla/list.java
 |4,39,3,3,1708514189,"~/tesla/list.java"
+-'  3  3  ~/tesla/list.java
+|4,39,3,3,1708514189,"~/tesla/list.java"
+-'  3  3  ~/tesla/list.java
+|4,39,3,3,1708514189,"~/tesla/list.java"
+-'  3  3  ~/tesla/list.java
+|4,39,3,3,1708514189,"~/tesla/list.java"
+-'  3  3  ~/tesla/list.java
+|4,39,3,3,1708514189,"~/tesla/list.java"
+-'  1  0  ~/tesla/list.java
+|4,39,1,0,1708514171,"~/tesla/list.java"
+-'  1  0  ~/tesla/list.java
+|4,39,1,0,1708514171,"~/tesla/list.java"
+-'  1  0  ~/tesla/list.java
+|4,39,1,0,1708514171,"~/tesla/list.java"
+-'  1  0  ~/tesla/list.java
+|4,39,1,0,1708514171,"~/tesla/list.java"
 -'  1  0  ~/tesla/list.java
 |4,39,1,0,1708514171,"~/tesla/list.java"
 -'  1  0  ~/tesla/list.java
@@ -152,6 +176,22 @@
 |4,39,1,2,1708513307,"~/tesla/test.sh"
 -'  1  2  ~/tesla/test.sh
 |4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
+-'  1  2  ~/tesla/test.sh
+|4,39,1,2,1708513307,"~/tesla/test.sh"
 -'  1  0  ~/tesla/deploy.sh
 |4,39,1,0,1708513289,"~/tesla/deploy.sh"
 -'  1  0  ~/tesla/deploy.sh
@@ -232,86 +272,56 @@
 |4,39,1,0,1708513272,"~/tesla/app.py"
 -'  1  0  ~/tesla/app.py
 |4,39,1,0,1708513272,"~/tesla/app.py"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
--'  1  0  ~/simon/tesla/test.sh
-|4,39,1,0,1708293257,"~/simon/tesla/test.sh"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
+-'  1  0  ~/tesla/app.py
+|4,39,1,0,1708513272,"~/tesla/app.py"
 
 # History of marks within files (newest to oldest):
+
+> ~/tesla/deploy.sh
+	*	1708688788	0
+	"	6	32
+	^	6	33
+	.	6	32
+	+	5	10
+	+	3	7
+	+	6	0
+	+	6	32
 
 > ~/tesla/info.dev
 	*	1708688598	0
@@ -319,14 +329,6 @@
 	^	1	33
 	.	1	32
 	+	1	32
-
-> ~/tesla/deploy.sh
-	*	1708608235	0
-	"	3	6
-	^	3	7
-	.	3	7
-	+	5	10
-	+	3	7
 
 > ~/tesla/list.java
 	*	1708514188	0
